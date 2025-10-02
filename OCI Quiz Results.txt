@@ -1,0 +1,72 @@
+OCI Quiz Results
+Correct Answers:
+
+Q1: Local NVMe
+
+Q10: Block Volume Cross-Region Replication
+
+Q11: Bastion Service
+
+Q12: Identity and Access Management (IAM)
+
+Q13: Oracle Cloud Guard
+
+Q14: OCI Monitoring
+
+Q15: OCI Object Storage
+
+Q16: OCI Cost Analysis
+
+Q17: Exadata Cloud Service
+
+Q18: Serverless event processing, such as responding to Object Storage events
+
+Q19: ATP (Autonomous Transaction Processing)
+
+Q2: Virtual Cloud Network (VCN)
+
+Q20: Collecting and analyzing logs from OCI resources
+
+Q21: Oracle Autonomous Database
+
+Q22: Resource Manager
+
+Q23: Network Load Balancer
+
+Q24: Local Peering Gateway (LPG)
+
+Q25: Service Gateway with IAM Policy
+
+Q26: Load Balancer
+
+Q27: Oracle Container Engine for Kubernetes (OKE)
+
+Q28: CPU Utilization
+
+Q29: OCI-Azure Interconnect 
+
+Q3: Event-driven and serverless applications that scale automatically
+
+Q30: Archive Storage
+
+Q31: OCI Vault
+
+Q32: Pay-as-you-go and Monthly Flex
+
+Q33: OCI Data Transfer Appliance
+
+Q34: Fast Connect
+
+Q35: File Storage Service (FSS)
+
+Q4: It provides persistent, scalable, and shared storage for stateful applications
+
+Q5: Bare Metal instances
+
+Q6: Object Versioning
+
+Q7: Key Management
+
+Q8: GPU shapes
+
+Q9: Preemptible Instances
